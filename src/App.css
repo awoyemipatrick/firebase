@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.header {
+  align-items: center;
+}
+
+.auth-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.movie__list {
+  display: flex;
+  flex-direction: column;
+}
+
+.list {
+  margin: 1rem 0;
+}
+
+.p {
+  padding: 1rem ;
+}
+
+.list__sumbit {
+  background: rgba(13, 42, 211, 0.966);
+}
